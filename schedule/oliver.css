@@ -1,0 +1,87 @@
+* {
+	font-family: Georgia, Helvetica;
+}
+body {
+	padding: 0;
+	margin: 0 0 20px 0;
+}
+
+h1, h2, h3, h4 {
+	margin: 0;
+}
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+h2 {
+	padding-left: 72px;
+	margin: 15px 0;
+}
+h3 {
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 1em;
+}
+h4 {
+	font-size: 1em;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+.cf, .tools, .mobile, .web, .handson {
+	min-height: 60px;
+	padding-right: 5px;
+}
+.all {
+	padding-left: 80px;
+}
+.cf {
+	/*background-color: #D4D3D3;*/
+	background-color: #C7C7C7;
+}
+.tools {
+	/*background-color: #DFDCD8;*/
+	background-color: #BCAFA0;
+}
+.mobile {
+	/*background-color: #DDD2C6;*/
+	background-color: #DEC3A6;
+}
+.web {
+	/*background-color: #E0EBD6;*/
+	background-color: #D4E0C8;
+}
+.handson {
+	/*background-color: #E5E8E6;*/
+	background-color: #BED6C6;
+}
+
+.flag {
+	color: white;
+	display: block;
+	float: left;
+	width: 60px;
+	height: 40px;
+	margin-right: 15px;
+	vertical-align: middle;
+	text-align: center;
+	padding-top: 20px;
+}
+.cf .flag {
+	background-color: #292523;
+}
+.tools .flag {
+	background-color: #61513B;
+}
+.mobile .flag {
+	background-color: #8C6842;
+}
+.web .flag {
+	background-color: #B0B89E;
+}
+.handson .flag {
+	background-color: #7C8A80;
+	padding-top: 15px;
+	height: 45px;
+}
