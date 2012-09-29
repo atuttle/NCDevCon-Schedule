@@ -61,12 +61,12 @@ h4 {
 	color: white;
 	display: block;
 	float: left;
-	width: 60px;
-	height: 40px;
+	width: 80px;
+	height: 50px;
+	padding-top: 10px;
 	margin-right: 15px;
 	vertical-align: middle;
 	text-align: center;
-	padding-top: 20px;
 }
 .cf .flag {
 	background-color: #292523;
@@ -82,6 +82,4 @@ h4 {
 }
 .handson .flag {
 	background-color: #7C8A80;
-	padding-top: 15px;
-	height: 45px;
 }
